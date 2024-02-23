@@ -1,0 +1,7 @@
+export let packageId = '0x9620070e77364f6872207ec136017c49de950217703f9919b0db57b4252cbebb';
+export let Kiosk = '0xd10eff19a548948e26d99ee9fdeda1801a48cc1f3325fde8fb57cbb064a12473';
+export let KioskOwnerCap = '0x227707eeac08ec4912ed92e1ae52f40e01abc064ac2ed3ed5f9b6a836a8d4fd1';
+export let nftCap = '0x9b07741e6bcfeecb45cd416ca889fdc8155e93997994b1c91e4303887b046363';
+export let TransferPolicyCapId = '0xf0e51adea2c246707ccf7c2d498eb8211003d748a5e184ac1b44c1e7d23f0fe7';
+export let TransferPolicyId = '0x337278d68bee43b302cca7dc98e8bb9aeca56ddfc9526120824d848fea355b37';
+export let NFTID = '0x98c039dd029d7c5d0b4bb89f00a9ab9d4b98d4506605cc677ba10f2a809df67c';
